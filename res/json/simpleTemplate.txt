@@ -1,0 +1,13 @@
+{
+	"metaData": {
+		"microServiceName": "test",
+		"template": "simpleTemplate",
+		"searchEngineKeywords": ["test"],
+		"language": ["test"],
+		"organization": "test"
+	},
+	"templateData": {
+		"title": "test",
+		"body": "test"
+	}
+}
